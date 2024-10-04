@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+/*Usar no princípio do código para resetar qualquer estilização.*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F4F0EA;
+    color: #789252;
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+}
+
+header{
+    padding: 2rem;
+    background-color: #331F19;
+    text-align: center;
+}
